@@ -1,0 +1,10 @@
+Quick reference for OSX terminal to github setup
+
+//intial setup
+
+1. set name - git config --global user.name "Eric Doman"
+
+2. set email - git config --global user.email "..."
+
+//Athenticating with GitHub from Git
+
